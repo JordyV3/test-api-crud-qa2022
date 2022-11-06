@@ -1,11 +1,9 @@
-# Node Supertest example
-REST API test using supertest and mocha simple example
+# Node API-REST Testing
+Prueba REST API usando supertest y mocha ejemplo simple
+
+Jordy Alexander Vega Aldana 1190-18-9769
 
 # Run test
 ```
 npm test
 ```
-
-# Resources
-* [Supertest](https://www.npmjs.com/package/supertest)
-* [Mocha no exit issue](https://stackoverflow.com/questions/50372866/mocha-not-exiting-after-test)
